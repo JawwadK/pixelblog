@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rails", "~> 8.0.0"
+gem "rails", "~> 8.0.1"
 gem "devise"           # For user authentication
 gem "image_processing" # For image resizing
 gem "propshaft"
